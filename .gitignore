@@ -1,0 +1,5 @@
+# IntelliJ config dir
+.idea/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/

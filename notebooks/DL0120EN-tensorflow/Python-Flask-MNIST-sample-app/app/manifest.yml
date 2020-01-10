@@ -1,0 +1,4 @@
+---
+applications:
+ - name: flask-digit-recognizer
+   memory: 128M

@@ -1,0 +1,3 @@
+Flask==1.1.1
+watson-machine-learning-client==1.0.378
+Pillow==7.0.0
